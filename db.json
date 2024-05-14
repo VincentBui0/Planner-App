@@ -15,7 +15,7 @@
     {
       "text": "Buy Business Attire",
       "time": "July 13th at 12",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
